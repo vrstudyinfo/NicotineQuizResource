@@ -1,1 +1,1 @@
-"# NicotineQuizResource" 
+# NicotineQuizResource
